@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>XIN MING</title>
+    <description>Hello World.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Jan 2016 23:24:43 -0500</pubDate>
-    <lastBuildDate>Mon, 04 Jan 2016 23:24:43 -0500</lastBuildDate>
+    <link>http://fmachine.cn/</link>
+    <atom:link href="http://fmachine.cn/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 04 Jan 2016 23:37:17 -0500</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 23:37:17 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,13 +28,26 @@
 
 </description>
         <pubDate>Mon, 04 Jan 2016 18:23:29 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/01/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/04/welcome-to-jekyll.html</guid>
+        <link>http://fmachine.cn/jekyll/update/2016/01/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://fmachine.cn/jekyll/update/2016/01/04/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Road Test Tips in MA</title>
+        <description>
+</description>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://fmachine.cn/2016/01/04/road-test-tips-in-ma.html</link>
+        <guid isPermaLink="true">http://fmachine.cn/2016/01/04/road-test-tips-in-ma.html</guid>
+        
+        <category>tutorial</category>
+        
         
       </item>
     
