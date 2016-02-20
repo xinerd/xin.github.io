@@ -5,8 +5,19 @@ description: > # this means to ignore newlines until "baseurl:"
   Hello World.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fmachine.cn" # the base hostname & protocol for your site
-twitter_username: xinerd
+
+# Social media profiles
+twitter_username: xinerdm
 github_username:  xinerd
+facebook_username: xinerd
+
+
+# Address information
+address_street: 100 Massmills Dr
+address_city: Lowell
+address_state: MA
+address_zip: 01852
+
 
 # Build settings
 markdown: kramdown
