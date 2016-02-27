@@ -1,6 +1,6 @@
 # Site settings
 title: XIN MING
-email: xinerd@fmachine.cn
+email: m.xinerd@gmail.cn
 description: > # this means to ignore newlines until "baseurl:"
   Hello World.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -9,8 +9,9 @@ url: "http://fmachine.cn" # the base hostname & protocol for your site
 # Social media profiles
 twitter_username: xinerdm
 github_username:  xinerd
-facebook_username: xinerd
 linkedin_username: xinerd
+facebook_username: xinerd
+
 
 
 # Address information
